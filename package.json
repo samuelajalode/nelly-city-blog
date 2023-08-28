@@ -34,7 +34,7 @@
 	},
 	"dependencies": {
 		"@astrojs/rss": "2.4.4",
-		"astro": "2.10.12"
+		"astro": "2.10.14"
 	},
 	"devDependencies": {
 		"@astrojs/mdx": "0.19.7",
