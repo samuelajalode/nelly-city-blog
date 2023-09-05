@@ -14,7 +14,7 @@
 		"astro-b"
 	],
 	"bugs": {
-		"url": "https://github.com/danielcgilibert/blog-template/issues"
+		"url": "https://github.com/samuelajalode/nelly-city-blog.git"
 	},
 	"scripts": {
 		"dev": "astro dev",
