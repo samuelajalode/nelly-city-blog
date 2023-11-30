@@ -8,10 +8,10 @@ interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-	author: 'DanielCG',
-	title: 'Astro Theme OpenBlog',
+	author: 'amaezonwebstudiosbyYoung',
+	title: 'nelly city resort blog',
 	description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
 	lang: 'en-GB',
 	ogLocale: 'en_GB',
-	shareMessage: 'Share this post' // Message to share a post on social media
+	shareMessage: 'Share this booming post' // Message to share a post on social media
 }
